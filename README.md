@@ -10,7 +10,7 @@
 
 
 <img src="http://f.cl.ly/items/1G3K1n2L3g452n3i1M2q/roboguice-200px.png" align="left" />
-### ~~Google Guice on Android, version 3.0~~
+### ~~Google Guice on Android, version 3.0~~ 
 [![Build Status on Travis:](https://travis-ci.org/roboguice/roboguice.svg?branch=master)](https://travis-ci.org/roboguice/roboguice) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.roboguice/roboguice/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.roboguice/roboguice)
 
 
